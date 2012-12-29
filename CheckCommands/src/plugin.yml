@@ -1,0 +1,8 @@
+name: CheckCommands
+version: 0.1
+main: ch.kg9dh.main.CheckCommands
+commands:
+  checkcommands:
+    description: Checks for commands used by other players.
+    usage: /<command> <on/off>
+    default: op
